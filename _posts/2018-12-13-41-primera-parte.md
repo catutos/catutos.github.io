@@ -12,8 +12,11 @@ En iOS utilizamos Swift (u Objective-C, el lenguaje precursor de Swift). En esta
 ## Temas de la primera parte
 
 - **Introducción a Swift**
+- **Hola Mundo**
+- **Comentarios**
 - **Declaración de variables**
 - **Tipos de datos en Swift**
+- **Colecciones**
 - **Estructuras de selección y repetición**
 - **Funciones**
 - **Tipos de datos opcionales**
